@@ -124,7 +124,7 @@ set `color: red;`, we will have more colors available if we define colors
 without words.
 
 Instead of `red`, `green`, or the exotic `tomato`, professionals prefer a set
-of numbers with a base pair of 16 rather than a base pair of 10 like we use
+of numbers with a base pair of 16 rather than a ba se pair of 10 like we use
 every day. These numbers are called "hexadecimal" and we can use them to make a
 wide range of colors.
 
